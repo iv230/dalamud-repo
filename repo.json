@@ -21,7 +21,7 @@
     "DownloadLinkInstall": "https://github.com/iv230/chat-proximity/releases/download/v0.0.1/ChatProximity-v0.0.1.zip",
     "DownloadLinkTesting": "https://github.com/iv230/chat-proximity/releases/download/v0.0.1/ChatProximity-v0.0.1.zip",
     "DownloadLinkUpdate": "https://github.com/iv230/chat-proximity/releases/download/v0.0.1/ChatProximity-v0.0.1.zip",
-    "IconUrl": "https://github.com/iv230/dalamud-repo/blob/de9844179253e3d63b01851a143a95bec1de1f4d/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/iv230/dalamud-repo/main/icon.png",
     "Tags": [
       "chat",
       "plugin",
