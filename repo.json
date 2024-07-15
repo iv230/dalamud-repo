@@ -4,7 +4,7 @@
     "Name": "Chat Proximity",
     "Punchline": "Know how far they talk from.",
     "Description": "This plugin will change message in the chat within the \"say\" channel, darkening people when they're far from you.'",
-    "InternalName": "Chat Proximity",
+    "InternalName": "ChatProximity",
     "AssemblyVersion": "0.0.1",
     "TestingAssemblyVersion": "0.0.1",
     "RepoUrl": "https://github.com/iv230/chat-proximity",
