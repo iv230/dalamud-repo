@@ -1,0 +1,31 @@
+[
+  {
+    "Author": "iv230",
+    "Name": "Chat Proximity",
+    "Punchline": "Know how far they talk from.",
+    "Description": "This plugin will change message in the chat within the \"say\" channel, darkening people when they're far from you.'",
+    "InternalName": "Chat Proximity",
+    "AssemblyVersion": "0.0.1",
+    "TestingAssemblyVersion": "0.0.1",
+    "RepoUrl": "https://github.com/iv230/chat-proximity",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 70000,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "DownloadLinkInstall": "https://github.com/iv230/chat-proximity/releases/download/v0.0.1/ChatProximity-v0.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/iv230/chat-proximity/releases/download/v0.0.1/ChatProximity-v0.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/iv230/chat-proximity/releases/download/v0.0.1/ChatProximity-v0.0.1.zip",
+    "IconUrl": "https://github.com/iv230/dalamud-repo/blob/main/icon.png",
+    "Tags": [
+      "chat",
+      "plugin",
+      "rp"
+    ]
+  }
+]
