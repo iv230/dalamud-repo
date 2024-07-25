@@ -18,9 +18,9 @@
     "LoadPriority": 70000,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/iv230/chat-proximity/releases/download/v0.0.2/ChatProximity-v0.0.3.zip",
-    "DownloadLinkTesting": "https://github.com/iv230/chat-proximity/releases/download/v0.0.2/ChatProximity-v0.0.3.zip",
-    "DownloadLinkUpdate": "https://github.com/iv230/chat-proximity/releases/download/v0.0.2/ChatProximity-v0.0.3.zip",
+    "DownloadLinkInstall": "https://github.com/iv230/chat-proximity/releases/download/v0.0.3/ChatProximity-v0.0.3.zip",
+    "DownloadLinkTesting": "https://github.com/iv230/chat-proximity/releases/download/v0.0.3/ChatProximity-v0.0.3.zip",
+    "DownloadLinkUpdate": "https://github.com/iv230/chat-proximity/releases/download/v0.0.3/ChatProximity-v0.0.3.zip",
     "IconUrl": "https://raw.githubusercontent.com/iv230/dalamud-repo/main/icon.png",
     "Tags": [
       "chat",
